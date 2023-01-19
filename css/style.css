@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: rgb(171, 165, 165);
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 50px;
+  text-align: left;
+  color: rgb(240, 238, 235);
+}
+
+header article h3 {
+  font-size: 20px;
+  text-align: left;
+}
