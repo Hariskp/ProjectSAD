@@ -23,11 +23,20 @@ header article h3 {
   text-align: left;
 }
 
+header nav a {
+  margin: 20px auto;
+  font-size: 18px;
+  color: #555;
+  text-align: center;
+  text-decoration: none;
+  margin-inline: 5px;
+}
+
 header img {
   margin-top: 40px;
   box-shadow: 0 0 10px;
 }
 
-div1 article {
-  box-shadow: 0 0 10px;
+div1 article h2 {
+  margin-left: 15px;
 }
