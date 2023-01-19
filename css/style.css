@@ -14,9 +14,20 @@ header h1 {
   font-size: 50px;
   text-align: left;
   color: rgb(240, 238, 235);
+  margin-top: -10px;
 }
 
 header article h3 {
+  margin-top: -30px;
   font-size: 20px;
   text-align: left;
+}
+
+header img {
+  margin-top: 40px;
+  box-shadow: 0 0 10px;
+}
+
+div1 article {
+  box-shadow: 0 0 10px;
 }
